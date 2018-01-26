@@ -8,6 +8,12 @@ In order to solve the above mentioned problems we are proposing a bus system usi
 
 In order to implement this, we are going to use java programming language. A Wi-Fi router should be installed at each bus stop, which would serve as a common network device to facilitate communication between all 3 devices (blind person, bus stop, bus). Firstly, when blind person reaches bus stop, his device automatically gets connected to bus stop device and he is informed about the current bus stop. He then inputs the bus/route number he intends to board. As the buses pass by the bus stop, the device inside the bus also gets connected to the wireless router. If the bus number currently connected to router matches the bus number entered by blind person, he starts getting a beep in his device. He can climb the bus. Also once he is inside the bus, every time he passes by a bus stop, his devices announce the name of the stop. In this way he can detect once he reaches his destination and successfully get down.
 
+## Authors
+
+1. Amol Suraj Mishra
+2. Lokesh Borra
+3. Aadithyavarma
+
 ![](https://i.imgur.com/pY6Ywmj.jpg)
 
 ![](https://i.imgur.com/ZfU3J7j.jpg)
